@@ -22,6 +22,7 @@
       <li>Implementing standard approaches & frameworks</li>
       <li>Unit tests</li>
     </ul>
+    <p>Code: <a href="https://github.com/theWhiteFox/list-my-gists">GitHub list my gists</a></p>
   </div>
 </template>
 
