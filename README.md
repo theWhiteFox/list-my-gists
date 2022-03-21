@@ -1,7 +1,8 @@
 # Github theWhiteFox Public Gists
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72e19f12-6d06-4689-bb16-89165ae0b917/deploy-status)](https://app.netlify.com/sites/thewhitefox-gists/deploys)
+
 This template should help get you started developing with Vue 3 in Vite.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc013b4e-5652-4e98-b662-588814f5705b/deploy-status)](https://app.netlify.com/sites/github-thewhitefox-public-gists/deploys)
 
 ## Recommended IDE Setup
 
